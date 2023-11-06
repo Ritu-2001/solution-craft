@@ -1,0 +1,332 @@
+.value-1{
+    text-align:center;
+    margin-top:80px;
+    font-family: 'Poppins', sans-serif;
+    font-size:30px;
+}
+.value-2{
+    text-align:center;
+    padding:0px;
+    margin-top:50px;
+}
+
+.Box-1{
+    flex: 1; /* Distribute columns evenly within a row */
+  margin-top: 60px;
+  width:20px;
+  padding:10px;
+  margin-left:5rem;
+}
+
+/* .Box-image-1{
+    width:120px;
+    margin-top:30px;
+    margin-left:200 px;
+    /* padding-left:-5px; */
+    
+
+.Box-image-2{
+    width:80px;
+    margin-top:30px;
+    margin-left:50px;
+    padding-left:30px;
+
+    margin-right:80px;}
+
+     .Box-image-1{
+        width:120px;
+        height:40px;
+    margin-top:30px;
+    margin-left:500px;
+    padding-left:30px;
+
+    } 
+.Box-image-3{
+    width:120px;
+    margin-top:30px;
+    margin-left:100px;
+    padding-left:30px;
+
+}
+
+.Box-image-4{
+    width:120px;
+    margin-top:30px;
+    margin-left:50px;
+    padding-left:30px;
+
+
+}
+.Box-image-5{
+    width:120px;
+    margin-top:30px;
+    margin-left:50px;
+    padding-left:0;
+    margin-right:20px;
+
+
+}
+.Box{
+    margin-top:50px;
+}
+
+.choice-image-1 {
+    width:200px;
+    margin-left:-30px;
+    margin-top:-60px;
+}
+.choice-image-2{
+    width:200px;
+    margin-left:-10px;
+    margin-top:-60px;
+}
+.choice-image-3{
+    width:200px;
+    margin-left:-10px;
+    margin-top:-60px;
+}
+
+.choice-image-4
+{width:200px;
+    margin-left:-10px;
+    margin-top:-60px;
+
+}
+.choice-image-5
+{width:200px;
+    margin-left:-10px;
+    margin-top:-60px;
+
+}
+
+/* .line{
+    color:black;
+    width:10px;
+} */
+.div{
+   background-color:black;
+   width:70px;
+
+}
+/* .line1{
+    margin-bottom:2000px; */
+    /* padding-bottom:2000px; */
+    /* margin-left:90px;
+    width:100px;
+    margin-top:-200px;
+} */
+
+.straight-line {
+    border: none;
+    border-top: 2px solid #000; /* Adjust the color and thickness as needed */
+    width: 100%; /* Set the width of the line */
+    margin: 0; /* Remove any default margins */
+    padding: 0;
+    margin-top:100px; /* Remove any default padding */
+  }
+  
+  .manage-1{
+    width:1500px;
+    height:290px;
+    margin-top:60px;
+    margin-left:-20px;
+  }
+
+  .manage-2{
+    width:1500px;
+    height:290px;
+    margin-top:20px;
+    overflow:hidden;
+    margin-left:-20px;
+  }
+
+  .manage-3{
+    width:1500px;
+    height:290px;
+    margin-top:20px;
+    margin-left:-20px;
+
+  }
+
+  .manage-4{
+    width:1500px;
+    height:290px;
+    margin-top:20px;
+    margin-left:-5px;
+  }
+
+  /* .community {
+    background-color: #000745;
+    width:1519px;
+    overflow:hidden;
+    height:230px;
+    margin-top:80px;
+  } */
+
+  .number{
+    
+    display: flex;
+    justify-content: center; /* Center the columns horizontally */
+    margin: 10px; /* Add margin between rows */
+  
+}
+
+.number-1{
+    font-size:60px;
+    color: white;
+    margin-left:-90px;
+    margin-top:60px;
+    position:auto;
+} 
+
+.number-2{
+    font-size:60px;
+    color: white;
+    margin-left:700px;
+    margin-top:60px;
+} 
+
+/* managining community code starts here */
+.container {
+    display: flex;
+    align-items: center; /* Center vertically */
+}
+
+/* .box-1{
+    margin-right: 20px;
+    width: 593px;
+height: 406px;
+flex-shrink: 0;
+background: #FFC700; */
+     /* Add spacing between the box and image */
+
+
+.box{
+    width: 450px;
+height:270px;
+flex-shrink: 0;
+margin-top:32px;
+background: #FFC700;
+
+}
+.Box-image-1{
+    width: 150px;
+height: 150px;
+margin-left:64px;
+}
+
+.Box-image-2, .Box-image-3{
+    width: 150px;
+    height: 150px;
+    margin-left:150px;
+
+}
+.main{
+    color: #000;
+font-family: Poppins;
+font-size: 25px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-left:60px;
+margin-top:25px;
+}
+.submain{
+    color: #000;
+font-family: Poppins;
+font-size: 15px;
+text-align:left;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-left:60px;
+}
+.contact{
+    color: #000;
+font-family: Poppins;
+font-size: 17px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin-left:60px;
+margin-top:30px;
+line-spacing:0.8;
+}
+.profile-1{
+    margin-top:280px;
+    margin-left:-120px;
+}
+.profile-2{
+    margin-top:280px;
+    margin-left:-180px;
+}
+.school-1{
+    color: #000;
+font-family: Poppins;
+font-size:16px;
+font-style: normal;
+font-weight: 550;
+line-height: normal;
+text-transform: capitalize;
+}
+.school-2{
+    color: #000;
+font-family: Poppins;
+font-size: 10px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: capitalize;
+}
+
+
+.communitys {
+    display: flex;
+    justify-content: center;
+    gap: 8rem;
+    position: relative;
+    background: #000745;
+    padding: 1rem 0;
+    margin: 9rem 0;
+    /* width: 1500px; */
+  }
+
+
+  communitys.community {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .communitys .community h3 {
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 3rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    /* margin-left:-20px; */
+  } 
+  .communitys .community p {
+    color:#fff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+     text-align:center; 
+    
+    /* margin-left:-10px; */
+  }
+  /* .com-1{
+    width: 200px;
+  } */
+  com-1{
+    /* padding-left: 2rem;
+    padding-right:1rem; */
+    margin-left:-50px;
+    margin-right:0.5rem;
+  }
+  .com-2{
+    margin-left:-50px;
+  } 

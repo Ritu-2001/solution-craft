@@ -1,0 +1,277 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&family=Poppins:wght@600&display=swap');
+  
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+  
+  @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Mukta:wght@700&display=swap');
+  
+  @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+
+
+.about{
+    background-color: #FFC700;
+    height:80px;
+    width:100%;
+}
+.first{
+    font-size:70px;
+    text-align:center;
+    font-family: 'Pixelify Sans', sans-serif;
+
+}
+.first-1{
+    text-align:center;
+    margin-top:80px;
+    font-family: 'Poppins', sans-serif;
+    font-size:30px;
+}
+.first-2{
+    text-align:center;
+    padding:0px;
+    margin-top:50px;
+}
+p{
+    margin-top:-20px;
+    font-family: 'Poppins', sans-serif;
+}
+.font{
+    display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center;     /* Center vertically */
+  height: 100vh;     
+}
+
+.font-1{
+    width: 80%;
+    text-align:center;
+    margin-left:0px;
+    margin-top:400px;
+    height:580px;
+
+}
+
+ .font-2{
+    height:80px;
+    margin-left:500px;
+    color: #FFC700;
+} 
+.quote{
+    text-align:right;
+}
+.p1{
+    text-align:right;
+    margin-right:200px;
+    font-family: 'Mukta', sans-serif;
+    font-size:20px;
+
+    margin-top:-20px;
+
+
+}
+.row{
+    
+        display: flex;
+        justify-content: center; /* Center the columns horizontally */
+        margin: 10px;
+     /* Add margin between rows */
+      
+}
+.col-1{
+    flex: 1; /* Distribute columns evenly within a row */
+  margin: 5px;
+  width:30px;
+}
+.about-1{
+    padding-top:100px;
+    margin-bottom:2000px;
+}
+/* .left-image{
+
+    margin-top:20px;
+    margin-left:270px;
+    width: 300px;
+height: 282px; */
+
+
+
+/* .row-1{
+    margin-top:100px;
+} */
+/* #1st-image{
+    margin-top:20px;
+} */
+
+/* padding-left:0px;
+padding-right:0px; */
+/* position:fixed; */
+
+
+
+/* .left-image-2{
+
+ margin-top: 20rem; 
+    margin-left:10rem;
+    width: 280px;
+height: 282px;
+
+}
+
+.container-2{
+    margin-top:20rem;
+}
+.left-image-3{
+
+    margin-top: 4rem;
+        margin-left:270px;
+        width: 300px;
+    height: 282px;
+    
+    }
+    .left-image-4{
+
+        margin-top: 4rem;
+            margin-left:270px;
+            width: 300px;
+        height: 282px;
+        
+        }
+        .left-image-5{
+
+            margin-top: 4rem;
+                margin-left:270px;
+                width: 300px;
+            height: 282px;
+            
+            }
+.right-image-1{
+    margin-top:9000px;
+padding-top: 120px;
+    margin-right:450px;
+    margin-top:100px;
+    width:45px;
+}
+.line{
+    margin-left:1035px;
+    margin-top:-1080px;
+    margin-button:200px;
+    width:5px;
+    height:1055px;
+    
+}
+.Rectangle{
+    width:310px;
+     */
+    /* margin-left:1200px */
+    /* margin-right:700px; */
+    /* padding-right:-25px; */
+    /* padding-left:-100px; */
+    /* margin-right:600px; */
+    /* margin-top:-400000px;
+    height:1035px; */
+    /* max-width:3000px; */
+    /* box-sizing:border-box; */
+
+.legacy{
+    /* background-color:black; */
+    margin-left:1350px;
+    width:30px;
+    margin-top:-400080px;
+    margin-bottom:40px;
+    height:990px;
+
+}
+
+
+.mission-1{
+    text-align:center;
+    margin-top:80px;
+    font-family: 'Poppins', sans-serif;
+    font-size:30px;
+}
+.mission-2{
+    text-align:center;
+    padding:1px;
+    font-size:14px;
+    line-height:2;
+    /* font-weight:light; */
+    font-weight:3px solid;
+
+    margin-top:50px;
+    font-family: 'Poppins', sans-serif;
+}
+.mission-img{
+    width: 70%;
+    text-align:center;
+    justify-content: center;
+    margin-left:250px;
+    margin-top:50px;
+    height:350px;
+    
+
+}
+/* .school-col-1{
+    width:300px;
+    height:250px;
+    background-color: blue;
+    margin-top:12.5rem;
+    margin-left:20rem;
+} */
+
+/* .Group-1{
+    width:300px;
+    height:300px;
+    color:blue;
+    margin-top:15px;
+} */
+/* .school-col-2{
+    width:300px;
+    height:250px;
+    background-color: blue;
+    margin-top:5rem;
+    
+}
+.school-col-3{
+    width:300px;
+    height:250px;
+    background-color: blue;
+    margin-top:5rem;
+}
+.school-col-4{
+    width:300px;
+    height:250px;
+    background-color: blue;
+    margin-top:5rem;
+}
+.school-col-5{
+    width:300px;
+    height:250px;
+    background-color: blue;
+    margin-top:5rem;
+} */
+.box-us{
+    width: 405px;
+    height:270px;
+    flex-shrink: 0;
+    margin-top:15rem;
+    /* margin-top:5rem; */
+    margin-left:9rem;
+    background: #FFC700;
+    
+
+}
+/* .box-us-1{
+    margin-top:-50rem;
+} */
+.box-us-1{
+    width: 405px;
+    height:270px;
+    flex-shrink: 0;
+    margin-top:-30rem;
+    margin-left:9rem;
+    background: #FFC700;
+
+}
